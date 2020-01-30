@@ -1,0 +1,11 @@
+function p=parameters(cm,gl,el,gna,ena,gk,ek,gt,et,ib)
+p.cm=cm;
+p.gl=gl;
+p.el=el;
+p.gna=gna;
+p.ena=ena;
+p.gk=gk;
+p.ek=ek;
+p.gt=gt;
+p.et=0;
+p.ib=ib;
